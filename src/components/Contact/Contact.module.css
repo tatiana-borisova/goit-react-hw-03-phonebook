@@ -10,6 +10,7 @@
   margin-left: auto;
   margin-right: 20px;
   color: rgb(0, 0, 70);
+  cursor: pointer;
 }
 .button {
   font-size: small;

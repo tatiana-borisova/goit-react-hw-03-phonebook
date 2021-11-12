@@ -31,3 +31,6 @@ p {
 h2 {
   margin: 12px 0px;
 }
+button {
+  cursor: pointer;
+}
